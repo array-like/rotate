@@ -4,12 +4,14 @@
 ArrayLike rotation for JavaScript.
 See [docs](https://array-like.github.io/rotate/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
+```js
+import {range} from '@iterable-iterator/range';
+import {rotateLeft} from '@array-like/rotate';
 
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+const a = Array.from(range(5));
+rotateLeft(a, 0, 5, 2);
+a; // 2 3 4 0 1
+```
 
 [![License](https://img.shields.io/github/license/array-like/rotate.svg)](https://raw.githubusercontent.com/array-like/rotate/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@array-like/rotate.svg)](https://www.npmjs.org/package/@array-like/rotate)

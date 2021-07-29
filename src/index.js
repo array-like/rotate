@@ -1,2 +1,2 @@
-const answer = 42;
-export default answer;
+export {default as rotateLeft} from './rotateLeft.js';
+export {default as rotateRight} from './rotateRight.js';
