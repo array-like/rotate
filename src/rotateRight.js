@@ -1,4 +1,5 @@
 import assert from 'assert';
+
 import {reverse} from '@array-like/reverse';
 
 /**

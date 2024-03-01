@@ -1,8 +1,8 @@
 import test from 'ava';
 
 import {alloc} from '@array-like/alloc';
-import {iota} from '@array-like/fill';
 import {copy} from '@array-like/copy';
+import {iota} from '@array-like/fill';
 
 import {rotateLeft} from '#module';
 
