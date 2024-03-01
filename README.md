@@ -16,8 +16,7 @@ a; // 2 3 4 0 1
 [![License](https://img.shields.io/github/license/array-like/rotate.svg)](https://raw.githubusercontent.com/array-like/rotate/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@array-like/rotate.svg)](https://www.npmjs.org/package/@array-like/rotate)
 [![Tests](https://img.shields.io/github/workflow/status/array-like/rotate/ci:test?event=push&label=tests)](https://github.com/array-like/rotate/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/array-like/rotate.svg)](https://david-dm.org/array-like/rotate)
-[![Dev dependencies](https://img.shields.io/david/dev/array-like/rotate.svg)](https://david-dm.org/array-like/rotate?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/array-like/rotate.svg)](https://github.com/array-like/rotate/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/array-like/rotate.svg)](https://github.com/array-like/rotate/issues)
 [![Downloads](https://img.shields.io/npm/dm/@array-like/rotate.svg)](https://www.npmjs.org/package/@array-like/rotate)
 
