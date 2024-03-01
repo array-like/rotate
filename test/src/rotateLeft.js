@@ -4,7 +4,7 @@ import {alloc} from '@array-like/alloc';
 import {iota} from '@array-like/fill';
 import {copy} from '@array-like/copy';
 
-import {rotateLeft} from '../../src/index.js';
+import {rotateLeft} from '#module';
 
 const macro = (t, n, k) => {
 	const a = alloc(n);
